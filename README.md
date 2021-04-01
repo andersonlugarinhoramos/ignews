@@ -100,4 +100,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 Feito por Anderson Ramos 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramosanderson/)](https://www.linkedin.com/in/ramosanderson/)
-[![Gmail Badge](https://img.shields.io/badge/-anderson.ramlug@gmail.com-red?style=flat-square&link=mailto:nelsonsantosaraujo@hotmail.com)](mailto:anderson.ramlug@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anderson.ramlug@gmail.com-red?style=flat-square&link=mailto:mailto:anderson.ramlug@gmail.com)](mailto:anderson.ramlug@gmail.com)
